@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Times New Roman;
+}
+hr{
+	color: #36454F;
+	width: 90%;
+}
+header{
+	text-align: center;
+	padding: 40px;
+}
+
+main{
+	padding: 40px;
+}
+ul{
+	padding: 20px;
+}
+li{
+	margin: 0px;
+	list-style: 10146;
+}
+
+table,th,td{
+	text-align: center;
+}
